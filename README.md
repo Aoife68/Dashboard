@@ -1,0 +1,2 @@
+# Dashboard
+Static Dashboard
